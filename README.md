@@ -1,11 +1,14 @@
-# Install dependencies
+### Install dependencies
+```
  > yarn install
+ ```
  
- # Run Project
+ ### Run Project
+ ```
  > yarn run dev
+ ```
  
- # Run JSON Server
+ ### Run JSON Server
+ ```
  > yarn run serve-json
-
-Enjoy!!!!
-
+ ```
